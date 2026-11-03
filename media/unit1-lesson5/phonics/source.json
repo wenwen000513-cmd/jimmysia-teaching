@@ -1,0 +1,29 @@
+{
+  "source": "media/abc-song.mp4",
+  "clips": {
+    "u": {
+      "start": 49.25,
+      "duration": 1.8
+    },
+    "v": {
+      "start": 51.65,
+      "duration": 1.65
+    },
+    "w": {
+      "start": 53.4,
+      "duration": 1.65
+    },
+    "x": {
+      "start": 55.1,
+      "duration": 1.65
+    },
+    "y": {
+      "start": 56.8,
+      "duration": 1.65
+    },
+    "z": {
+      "start": 59,
+      "duration": 1.8
+    }
+  }
+}

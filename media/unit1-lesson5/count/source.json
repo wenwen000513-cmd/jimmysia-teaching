@@ -1,0 +1,79 @@
+{
+  "voice_id": "330290724a1b470fb63153f34d4c0183",
+  "voice_name": "Annie - Lifelike",
+  "engine": "orca",
+  "request_id": "9af2068a1a444eacbbfd3e9927314e2b",
+  "source_duration": 28.473469387755102,
+  "clips": [
+    {
+      "file": "q01.wav",
+      "text": "How many ears does Cub have?",
+      "source_start": 0.2122222222222222,
+      "source_end": 1.9822222222222223,
+      "duration": 1.7700226757369615
+    },
+    {
+      "file": "q02.wav",
+      "text": "How many heads does Pip have?",
+      "source_start": 2.8422222222222224,
+      "source_end": 4.8500000000000005,
+      "duration": 2.007755102040816
+    },
+    {
+      "file": "q03.wav",
+      "text": "How many eyes does Bud have?",
+      "source_start": 5.710000000000001,
+      "source_end": 7.762222222222223,
+      "duration": 2.052199546485261
+    },
+    {
+      "file": "q04.wav",
+      "text": "How many noses does Kit have?",
+      "source_start": 8.622222222222224,
+      "source_end": 10.747777777777777,
+      "duration": 2.125532879818594
+    },
+    {
+      "file": "q05.wav",
+      "text": "How many legs does Pup have?",
+      "source_start": 11.656666666666668,
+      "source_end": 13.566666666666668,
+      "duration": 1.9100226757369614
+    },
+    {
+      "file": "q06.wav",
+      "text": "How many mouths does Dot have?",
+      "source_start": 14.42666666666667,
+      "source_end": 16.48777777777778,
+      "duration": 2.06108843537415
+    },
+    {
+      "file": "q07.wav",
+      "text": "How many noses does Cub have?",
+      "source_start": 17.34777777777778,
+      "source_end": 19.523333333333333,
+      "duration": 2.1755555555555555
+    },
+    {
+      "file": "q08.wav",
+      "text": "How many ears does Kit have?",
+      "source_start": 20.484444444444446,
+      "source_end": 22.403333333333332,
+      "duration": 1.9188662131519274
+    },
+    {
+      "file": "q09.wav",
+      "text": "How many eyes does Pup have?",
+      "source_start": 23.263333333333332,
+      "source_end": 25.08444444444444,
+      "duration": 1.8210884353741497
+    },
+    {
+      "file": "q10.wav",
+      "text": "How many mouths does Bud have?",
+      "source_start": 25.94444444444444,
+      "source_end": 28.43444444444444,
+      "duration": 2.4900226757369612
+    }
+  ]
+}
